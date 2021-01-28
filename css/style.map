@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"$base-color: #343434;\n\nbody {\n  background: $base-color;\n}\n"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,IAAI,CAAC;EACH,UAAU,EAHC,OAAO,GAInB"
+}
